@@ -1,0 +1,84 @@
+{
+    "articles": {
+      "page": 1,
+      "totalResults": 34299,
+      "pages": 11433,
+      "results": [
+        {
+          "uri": "7294889854",
+          "lang": "eng",
+          "isDuplicate": true,
+          "date": "2022-12-10",
+          "time": "09:00:00",
+          "dateTime": "2022-12-10T09:00:00Z",
+          "dateTimePub": "2022-12-10T08:55:00Z",
+          "dataType": "news",
+          "sim": 0,
+          "url": "https://www.smh.com.au/sport/cricket/warner-s-future-has-gone-back-into-the-balance-20221210-p5c5aq.html",
+          "title": "Warner's future has gone back into the balance",
+          "body": "The brouhaha around his leadership ban could not have helped, though Warner did himself no favours with his emotion-laden withdrawal from the redemption-seeking process on the eve of the Test match. Perhaps he wanted to increase the degree of difficulty. Perhaps he thought the distraction wouldn't matter; for a decade in the Australian team, whatever else has been going on, Warner has been able to trust in his bat.\n\nNot so much in recent times, however. Since this fixture a year ago, Warner had scored 340 Test runs at a little more than 20 in 16 innings played mostly on batting-friendly pitches here and on the subcontinent. No Test century in nearly three years. An average slip-sliding from a tick under 50 to a tick over 46. If Australia were producing opening batters like they produce opening bowlers, Warner would have been under extreme pressure to retain his place since his return from his playing ban in 2019. The leadership ban would be entirely hypothetical.\n\nSpeaking of leadership bans, Warner could be very grateful to his captain in Adelaide, Steve Smith, for deciding not to ask the West Indies to follow on. This has become an unremarkable tactic in Test cricket, but there were ironies laced through ironies in the identity of Warner's friend. Smith, also banned after Cape Town in 2018, has been conditionally restored. He is only Australia's stand-in captain, but this barely rates a mention now. Smith led the team astutely in the field, using his bowlers well to pick apart the West Indies' first innings and adding in a clever review to give Nathan Lyon one of his three wickets.\n\nSmith stepping in to replace the injured Patrick Cummins has become automatic. While some would still be unhappy that Smith has been forgiven, there is unanimous support within the team and Cricket Australia for his caretaker captaincy. Warner can only look on with the frustration and chagrin that his statements have made manifest.\n\nDecisions often seem vexing, verging on crisis, before they are made. Remember the angst about Smith becoming vice-captain? The hundred years of doubt that hung over a fast bowler, such as Cummins, being given the captain's reins? Until they are made, these decisions can seem to have the whole world hanging on them. Then, once they are made, it's ho-hum, what was all the fuss about?\n\nIt is the lack of a decision - or the reopening of a decision made in 2018 - that has stirred up the current controversy. Cricket Australia had it in its power to state, quite firmly, that Warner's ban would remain. It also had the power to commute his sentence. Instead, it tied itself in knots trying to resolve a problem without actually making a decision. In doing so, all it did was breathe new life into the most divisive issue in Australian cricket. If CA's purpose was to stir up dissent, remind supporters of the lasting ambivalence they carry toward this Australian team, and keep the controversy alive, then it can congratulate itself on a job well done.",
+          "source": {
+            "uri": "smh.com.au",
+            "dataType": "news",
+            "title": "The Sydney Morning Herald"
+          },
+          "authors": [],
+          "image": "https://static.ffx.io/images/$zoom_0.26051660516605163%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_0%2C$y_95/t_crop_custom/q_86%2Cf_auto/t_smh_analysis_no_age_social_wm/2978787a933de76db4090c315ecf3637b291ff86",
+          "eventUri": null,
+          "sentiment": -0.06666666666666665,
+          "wgt": 408358800,
+          "relevance": 5
+        },
+        {
+          "uri": "7294888943",
+          "lang": "eng",
+          "isDuplicate": false,
+          "date": "2022-12-10",
+          "time": "09:00:00",
+          "dateTime": "2022-12-10T09:00:00Z",
+          "dateTimePub": "2022-12-10T08:59:00Z",
+          "dataType": "news",
+          "sim": 0.7843137383460999,
+          "url": "https://www.republicworld.com/sports-news/cricket-news/india-vs-bangladesh-ishan-kishan-smashes-sensational-double-century-off-126-balls-articleshow.html",
+          "title": "Ishan Kishan sets skies alight with fastest 200 in ODIs, goes past Chris Gayle",
+          "body": "Ishan Kishan scored his maiden century after replacing injured Rohit Sharma in the playing XI and went on to complete 200 runs off just 126 balls.\n\nTeam India opener Ishan Kishan has smashed the fastest double hundred in ODI cricket, taking just 126 balls to go past 200. He broke the record that was earlier held by Chris Gayle.\n\nIshan Kishan replaced captain Rohit Sharma in Team India's playing XI for the final ODI of the three-match series against Bangladesh at Chattogram on Saturday. Making a comeback into the squad since representing India against New Zealand in Napier last month, the 24-year-old proved his worth as an opener by smashing a sensational double century. In the process, Kishan also scripted a unique ODI record as a Team India opener.\n\nKishan amassed 200 runs off 126 balls in the 35th over of the first innings, with Kohli looking strong at 85 runs off 76 balls. Kishan smashed the bowlers all around the park. The left-handed batter hit 23 fours and nine sixes at the time of writing while the former India captain had hit nine fours.\n\nWhile India lost veteran opener, Shikhar Dhawan, cheaply for a mere three runs off eight balls in the 5th over, Kishan held his ground and provided a treat to the Indian fans. He took 85 balls to complete his maiden century for India in ODI cricket and became the first Indian opener to score an ODI century since Rohit Sharma's 119 against Australia in January 2020. He received much-required support from former India captain Virat Kohli, who took a step back, allowing Kishan to go all out against the opposition bowlers.\n\nInterestingly, Kishan took his innings to another level after completing his hundred and switched gears to complete his 150 in the next 18 deliveries after his hundred. The duo took 141 balls to complete their double-century stand.",
+          "source": {
+            "uri": "republicworld.com",
+            "dataType": "news",
+            "title": "Republic World"
+          },
+          "authors": [],
+          "image": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/yk2i9d3mz5cgi4fv_1670661910.jpeg",
+          "eventUri": "eng-8238528",
+          "sentiment": 0.04313725490196085,
+          "wgt": 408358800,
+          "relevance": 2
+        },
+        {
+          "uri": "7294889185",
+          "lang": "eng",
+          "isDuplicate": true,
+          "date": "2022-12-10",
+          "time": "09:00:00",
+          "dateTime": "2022-12-10T09:00:00Z",
+          "dateTimePub": "2022-12-10T08:54:00Z",
+          "dataType": "news",
+          "sim": 0,
+          "url": "https://www.globalvillagespace.com/netizens-slam-akshay-kumar-for-defending-anti-pakistan-movie/",
+          "title": "Netizens slam Akshay Kumar for defending anti-Pakistan movie",
+          "body": "Bollywood actor Akshay Kumar faces condemnation after he defended his anti-Pakistan movie 'Bell Bottom' at the Red Sea International Film Festival in Saudi Arabia.\n\nPakistani fan asked Akshay Kumar about his stance on the negative portrayal of Pakistan in Bollywood movies. His response has left Pakistanis red-faced. The social media users are not happy with the response given by Akshay Kumar to the question.\n\n\"I have a request as you're doing fantastic movies [such as] Pad Man and Toilet, all these movies that are bringing knowledge to people [and] solving daily routine issues,\" he said.\" There's an issue between India and Pakistan as well, when there's a cricket match happening, it seems like there's a war somewhere happening.\n\n\"So why don't you, instead of making a movie [such as] your recent movie, Bell Bottom, that has certain things against Pakistan, why can't we just, both countries they've separated but they're not able to\" his question was cut short by the Ram Setu actor who was quick to respond with, \"Sir, it's just a movie. Don't get so serious about it, it's just a movie.\"\n\nNetizens are not satisfied with the non-serious response of Akshay Kumar. Pakistani social media users said that these things should be taken seriously as such film contributes to the vilification of certain groups and may harbor negative sentiments against a country. Some argued that cinema has the power to transform the opinions of people. By giving a certain message, films contribute to promoting propaganda. Hence, these things should not be taken lightly.\n\nRead more: Mahira Khan rubs shoulder with Hrithik Roshan\n\nOthers said that when such prominent actors associated themselves with certain notions, stereotypes, or narratives the message further penetrates the minds of the viewers and listeners. People demand that Bollywood actors should be mindful of the influence they have on the masses and their viewership across the globe.",
+          "source": {
+            "uri": "globalvillagespace.com",
+            "dataType": "news",
+            "title": "Global Village Space"
+          },
+          "authors": [],
+          "image": "https://www.globalvillagespace.com/wp-content/uploads/2022/12/bellbottom_1670220957693.jpg",
+          "eventUri": null,
+          "sentiment": -0.1607843137254902,
+          "wgt": 408358800,
+          "relevance": 1
+        }
+      ]
+    }
+  }
